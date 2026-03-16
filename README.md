@@ -5,7 +5,7 @@ This repository contains a collection of 10 real-world algorithmic problems solv
 
 **Author:** Harshit Singh  
 **Registration Number:** RA2411003010985  
-**Program:** B.Tech Computer Science Engineering (Core) - Software Development
+**Program:** B.Tech Computer Science Engineering (Core) - 
 
 ---
 
